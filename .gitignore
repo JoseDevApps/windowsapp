@@ -1,2 +1,3 @@
 /main/media/*
 /main/db.sqlite3
+/__pycache__
